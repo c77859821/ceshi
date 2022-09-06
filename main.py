@@ -147,7 +147,7 @@ def send_message(to_user, access_token, region_name, weather, temp, feelsLike, v
     data = {
         "touser": to_user,
         "template_id": config["template_id"],
-        "url": "http://weixin.qq.com/download",
+        "url": "https://s1.328888.xyz/2022/09/07/5MuR7.png",
         "topcolor": "#FF0000",
         "data": {
             "date": {
