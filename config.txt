@@ -1,19 +1,19 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "###########",
+"app_id": "wx80f6172c54f71fee",
 # 公众号appSecret
-"app_secret": "###########",
+"app_secret": "584ee7ccf211c528b3d5416a5f3940e5",
 # 模板消息id
-"template_id": "###########",
+"template_id": "GoXqm56fYySWktV0V7weJYo-HXExZKouC_lyWHwuWhI",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["###########"],
+"user": ["ozp5v541ictGlc2A_UcmHtE6sUL8"],
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "###########",
+"weather_key": "b877bcfc1019486dab8b692bbf20854a ",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "###########",
+"region": "沧州市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "###########", "birthday": "2004-04-08"},
 # 生日2
@@ -25,6 +25,3 @@
 # 金句英文
 "note_en": ""
 }
-
-#更多资源学习请访问东阁：https://oo1o.cn
-#Ps:当前有0撸70元现金项目，免费上车
