@@ -147,7 +147,7 @@ def send_message(to_user, access_token, region_name, weather, temp, feelsLike, v
     data = {
         "touser": to_user,
         "template_id": config["template_id"],
-        "url": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2022%252F0724%252Fbbea5ea2j00rfikp6000vd000hs00gdp.jpg%26thumbnail%3D660x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665098893&t=81ee95650c124aacb036c08d8fc44838",
+        "url": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdingyue.ws.126.net%2F2019%2F03%2F14%2F5e43c7a252bf44fd9a7bf19aec9f6dd2.gif&refer=http%3A%2F%2Fdingyue.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665099029&t=90749de7906bf7bc01b408c3256a5903",
         "topcolor": "#FF0000",
         "data": {
             "date": {
